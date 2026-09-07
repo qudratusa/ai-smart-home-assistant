@@ -104,8 +104,8 @@ See [`project-overview.md`](project-overview.md) for a more detailed project sum
 
 ## Team
 
-- Armel Atayi
-- Qudrat Siyal
+- [Armel Atayi](https://github.com/ArmelAtayi-glitch) — `@ArmelAtayi-glitch`
+- [Qudrat Siyal](https://github.com/qudratusa) — `@qudratusa`
 - Rayhaan Manadath
 - Ro Mussasa
 
