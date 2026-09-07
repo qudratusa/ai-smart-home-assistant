@@ -20,31 +20,31 @@ The design emphasizes three goals:
 
 A unified view for connected devices such as lights, temperature controls, cameras, and a robot vacuum.
 
-![Home dashboard](assets/screenshots/home-dashboard.png)
+![Home dashboard](home-dashboard.png)
 
 ### Routine personalization
 
 Users can edit routines, enable AI-suggested optimizations, and review anomaly alerts while remaining in control of automation.
 
-![Routine personalization](assets/screenshots/routine-personalization.png)
+![Routine personalization](routine-personalization.png)
 
 ### Privacy dashboard
 
 Users can enable or disable data collection, choose local storage, and review a recent overview of assistant data access.
 
-![Privacy dashboard](assets/screenshots/privacy-dashboard.png)
+![Privacy dashboard](privacy-dashboard.png)
 
 ### Device controls
 
 | Vacuum | Security Camera | Temperature |
 | --- | --- | --- |
-| ![Vacuum control](assets/screenshots/vacuum-control.png) | ![Security camera](assets/screenshots/security-camera.png) | ![Temperature control](assets/screenshots/temperature-control.png) |
+| ![Vacuum control](vacuum-control.png) | ![Security camera](security-camera.png) | ![Temperature control](temperature-control.png) |
 
 ### Voice interaction
 
 The prototype also explores contextual voice commands and routine suggestions.
 
-![Voice assistant interaction](assets/screenshots/voice-assistant.png)
+![Voice assistant interaction](voice-assistant.png)
 
 ## Conceptual System Flow
 
@@ -100,7 +100,7 @@ Potential next steps include:
 5. Add fine-grained permissions, audit logs, and data-expiration controls.
 6. Improve accessibility and inclusive design.
 
-See [`docs/project-overview.md`](docs/project-overview.md) for a more detailed project summary and roadmap.
+See [`project-overview.md`](project-overview.md) for a more detailed project summary and roadmap.
 
 ## Team
 
@@ -117,18 +117,15 @@ University of North Carolina at Charlotte — 2025 semester project.
 ai-smart-home-assistant/
 ├── README.md
 ├── CITATION.cff
-├── .gitignore
-├── assets/
-│   └── screenshots/
-│       ├── home-dashboard.png
-│       ├── privacy-dashboard.png
-│       ├── routine-personalization.png
-│       ├── security-camera.png
-│       ├── temperature-control.png
-│       ├── vacuum-control.png
-│       └── voice-assistant.png
-└── docs/
-    └── project-overview.md
+├── GITHUB_SETUP.md
+├── project-overview.md
+├── home-dashboard.png
+├── privacy-dashboard.png
+├── routine-personalization.png
+├── security-camera.png
+├── temperature-control.png
+├── vacuum-control.png
+└── voice-assistant.png
 ```
 
 ## License
